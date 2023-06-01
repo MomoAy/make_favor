@@ -1,6 +1,6 @@
 # make_favor
 
-A new Flutter project.
+A new Flutter project.(the code is in the master branch)
 
 ## Getting Started
 
